@@ -54,8 +54,9 @@ public class HashMap {
 		Collections.reverse(list);
 		System.out.println("using collection method="+list);
 		//rmove the dublicate value
-	    HashSet set=new HashSet(list);
-	    System.out.println(set);
+//	    HashSet set=new HashSet(list);
+//	    System.out.println(set);
+		
 	    
 	    
 		
